@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://baysl.github.io/website-test'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-theme-m10c"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
