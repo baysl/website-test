@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/my-first-post/</loc>
-    <lastmod>2025-05-18T15:20:48+02:00</lastmod>
+    <loc>https://baysl.github.io/website-test/</loc>
+    <lastmod>2025-05-18T15:49:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-05-18T15:20:48+02:00</lastmod>
+    <loc>https://baysl.github.io/website-test/posts/</loc>
+    <lastmod>2025-05-18T15:49:19+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-05-18T15:20:48+02:00</lastmod>
+    <loc>https://baysl.github.io/website-test/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/posts/trying-out/</loc>
-    <lastmod>2025-05-18T15:20:48+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://baysl.github.io/website-test/tags/</loc>
   </url>
 </urlset>
